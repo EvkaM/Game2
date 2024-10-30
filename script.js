@@ -90,7 +90,7 @@ const questions = [
         answer:1
     },
     {
-        questions:"19. Ի՞նչ է JavaScript-ի -ը",
+        questions:"19. Ի՞նչ է JavaScript-ի setTimeout-ը",
         options:["Տվյալների պահեստավորման մեթոդ","Մուտքագրում","Դանդաղեցված գործողություն","Ֆունկցիայի կազմակերպում"],
         answer:2
     },
